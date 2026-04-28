@@ -1,0 +1,7 @@
+git init
+git Branch -m master main
+git add .
+git commit -m "Primera Pila"
+git remote add origin https://github.com/pau08gt
+git Branch -m main
+git push -f -u origin main
